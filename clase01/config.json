@@ -1,0 +1,5 @@
+{
+    "app_name": "Test",
+    "workers": 0,
+    "log_level": "INFO"
+}
